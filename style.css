@@ -1,0 +1,29 @@
+body{
+    background:#0a0a0a;
+    color:white;
+    font-family:Arial,sans-serif;
+    text-align:center;
+}
+
+header{
+    padding:30px;
+    background:#111;
+    border-bottom:2px solid cyan;
+}
+
+h1{
+    color:cyan;
+    text-shadow:0 0 20px cyan;
+}
+
+.hero{
+    padding:40px;
+}
+
+.card{
+    margin:20px;
+    padding:20px;
+    border:1px solid cyan;
+    border-radius:15px;
+    box-shadow:0 0 15px cyan;
+}
